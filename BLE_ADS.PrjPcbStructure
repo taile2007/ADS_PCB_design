@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=BLE_ADS.SchDoc
+Record=SheetSymbol|SourceDocument=BLE_ADS.SchDoc|Designator=ADS_ExG|SchDesignator=ADS_ExG|FileName=ADS_ExG.SchDoc|SymbolType=Normal|RawFileName=ADS_ExG.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLE_ADS.SchDoc|Designator=Battery circuit|SchDesignator=Battery circuit|FileName=Battery circuit.SchDoc|SymbolType=Normal|RawFileName=Battery circuit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLE_ADS.SchDoc|Designator=BLE_module|SchDesignator=BLE_module|FileName=BLE module.SchDoc|SymbolType=Normal|RawFileName=BLE module.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLE_ADS.SchDoc|Designator=Power supply|SchDesignator=Power supply|FileName=Power supply.SchDoc|SymbolType=Normal|RawFileName=Power supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

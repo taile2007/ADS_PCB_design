@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BLE_ADS.PrjPcb]
+   Generated File[Power.TXT]
+   Generated File[Power.LDP]
+   Generated File[Power.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:34:48 PM On 7/1/2019

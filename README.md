@@ -12,12 +12,12 @@ This is the 4-layer PCB well designed to avoid powerline noise and EM interferen
 
 ## The System PCB Layer Images
 ### Top layer
-![](images/Top%20layer.JPG)
+![](Screen%20shoot/Top%20layer.JPG)
 ### Power layer
-![](images/Power%20layer.JPG)
+![](Screen%20shoot/Power%20layer.JPG)
 ### Ground layer
-![](images/GND%20layer.JPG)
+![](Screen%20shoot/GND%20layer.JPG)
 ### Bottom layer
-![](images/Bottom%20layer.JPG)
+![](Screen%20shoot/Bottom%20layer.JPG)
 ### 3D view
-![](images/3D.JPG)
+![](Screen%20shoot/3D.JPG)
